@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\az-204\bin\Publish\az-204.exe
+C:\Users\user\Downloads\az-204\bin\Publish\appsettings.Development.json
+C:\Users\user\Downloads\az-204\bin\Publish\appsettings.json
+C:\Users\user\Downloads\az-204\bin\Publish\az-204.dll
+C:\Users\user\Downloads\az-204\bin\Publish\az-204.deps.json
+C:\Users\user\Downloads\az-204\bin\Publish\az-204.runtimeconfig.json
+C:\Users\user\Downloads\az-204\bin\Publish\az-204.pdb
